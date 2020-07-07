@@ -1,6 +1,6 @@
 # Pre-requisites:
 
-1. Visual Studio installed on your machine.  ".NET Core" should be installed in Visual Studio too (if no - add it with Visual Studio Installer)
+1. Visual Studio installed on your machine.  ".NET Core 3.1" should be installed in Visual Studio too (if no - add it with Visual Studio Installer)
    * [Install it from here](https://visualstudio.microsoft.com/downloads/)
 2. Chrome browser, Firefox Browser and Edge Browser is installed on your machine.
    
