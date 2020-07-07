@@ -6,7 +6,7 @@
    
 3. Chrome, Firefox, Edge Webdriver is installed from Nuget Package Manager.
 
-4. Nunit, Eyes.Selenium, NUnit3TestAdapter, Selenium.Webdriver,Selenium.Support packages are installed from Nuget Package Manager
+4. Nunit, Eyes.Selenium, NUnit3TestAdapter, Selenium.Webdriver, Selenium.Webdriver.MicrosoftDriver,Selenium.Support packages are installed from Nuget Package Manager
 
 
 
