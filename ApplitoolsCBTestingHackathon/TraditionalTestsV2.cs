@@ -76,6 +76,11 @@ namespace ApplitoolsCBTestingHackathon
                 {"Color","Black "}
 
             };
+            if (browserName.Equals("chrome2") || browserName.Equals("firefox2") || browserName.Equals("edge2") || browserName.Equals("mobilePortrait"))
+            {
+                _v1Page.ClickOnFilterIcon();
+            }
+            _v1Page.SelectFilterByType("colors", "Black ");
             _v1Page.ClickOnProductByName(productInformation["Name"]);
 
             /*
