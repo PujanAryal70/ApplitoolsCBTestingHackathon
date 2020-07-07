@@ -1,0 +1,95 @@
+Task: 1, Test Name: Search field is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Search icon is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Applifashion logo is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Menu is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Filters are displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Profile icon is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Wishlist icon is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Cart icon is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Quick links are displayed on footer, Browser Chrome, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Contacts are displayed on footer, Browser Chrome, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Keep in touch form is displayed on footer, Browser Chrome, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Language selection dropdown is displayed on footer, Browser Chrome, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Currency dropdown is displayed on footer, Browser Chrome, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Terms and conditions link is displayed on footer, Browser Chrome, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Privacy link is displayed on footer, Browser Chrome, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Applitools copyright information is displayed on footer, Browser Chrome, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Sorting option is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Products arrangement option is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Products in grid are displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Search field is displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Search icon is displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Applifashion logo is displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Menu is displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Filters are displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Profile icon is displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Wishlist icon is displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Cart icon is displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Quick links are displayed on footer, Browser Chrome, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Contacts are displayed on footer, Browser Chrome, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Keep in touch form is displayed on footer, Browser Chrome, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Language selection dropdown is displayed on footer, Browser Chrome, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Currency dropdown is displayed on footer, Browser Chrome, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Terms and conditions link is displayed on footer, Browser Chrome, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Privacy link is displayed on footer, Browser Chrome, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Applitools copyright information is displayed on footer, Browser Chrome, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Sorting option is displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Products arrangement option is displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Products in grid are displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Search field is displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Search icon is displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Applifashion logo is displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Menu is displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Filters are displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Profile icon is displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Wishlist icon is displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Cart icon is displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Quick links are displayed on footer, Browser FireFox, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Contacts are displayed on footer, Browser FireFox, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Keep in touch form is displayed on footer, Browser FireFox, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Language selection dropdown is displayed on footer, Browser FireFox, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Currency dropdown is displayed on footer, Browser FireFox, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Terms and conditions link is displayed on footer, Browser FireFox, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Privacy link is displayed on footer, Browser FireFox, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Applitools copyright information is displayed on footer, Browser FireFox, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Sorting option is displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Products arrangement option is displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: False
+Task: 1, Test Name: Products in grid are displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Search field is displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Search icon is displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Applifashion logo is displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Menu is displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Filters are displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Profile icon is displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Wishlist icon is displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Cart icon is displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Quick links are displayed on footer, Browser FireFox, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Contacts are displayed on footer, Browser FireFox, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Keep in touch form is displayed on footer, Browser FireFox, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Language selection dropdown is displayed on footer, Browser FireFox, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Currency dropdown is displayed on footer, Browser FireFox, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Terms and conditions link is displayed on footer, Browser FireFox, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Privacy link is displayed on footer, Browser FireFox, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Applitools copyright information is displayed on footer, Browser FireFox, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Sorting option is displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Products arrangement option is displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: False
+Task: 1, Test Name: Products in grid are displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Search field is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Search icon is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Applifashion logo is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Menu is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Filters are displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Profile icon is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Wishlist icon is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Cart icon is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Quick links are displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: False
+Task: 1, Test Name: Contacts are displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: False
+Task: 1, Test Name: Keep in touch form is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: False
+Task: 1, Test Name: Language selection dropdown is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: False
+Task: 1, Test Name: Currency dropdown is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: False
+Task: 1, Test Name: Terms and conditions link is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: False
+Task: 1, Test Name: Privacy link is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: False
+Task: 1, Test Name: Applitools copyright information is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: False
+Task: 1, Test Name: Sorting option is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: False
+Task: 1, Test Name: Products arrangement option is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: False
+Task: 1, Test Name: Products in grid are displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
