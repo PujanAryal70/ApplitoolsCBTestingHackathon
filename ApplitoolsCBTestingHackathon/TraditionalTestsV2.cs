@@ -48,10 +48,17 @@ namespace ApplitoolsCBTestingHackathon
         public void Verify_Shopping_Experience(string browserName)
         {
             Setup(BrowsersSettings.Version2Url, browserName);
+            //Filters are hidden for Tablet and Mobile Device hence filter icon must be clicked before applying the filters
+            if (browserName.Equals("chrome2") || browserName.Equals("firefox2") || browserName.Equals("edge2") || browserName.Equals("mobilePortrait"))
+            {
+                _v1Page.ClickOnFilterIcon();
+            }
             _v1Page.SelectFilterByType("colors", "Black ");
             _v1Page.ClickOnFilterButton();
             Assert.True(HackathonReport(2, "Correct Products Displayed When Filter Is Applied ?", browserName, (_v1Page.GetSearchResultCount() == 2)));
-
+            /*
+             * Test is failing as invalid data is getting displayed. For instance white shoes is getting displayed when black colour filter is applied.
+             */
         }
 
         //Task 3
@@ -70,6 +77,10 @@ namespace ApplitoolsCBTestingHackathon
 
             };
             _v1Page.ClickOnProductByName(productInformation["Name"]);
+
+            /*
+             * Test is failing as new price format has been changed
+             */
             Assert.Multiple(() =>
             {
                 Assert.True(HackathonReport(3, "Navigation To Default Page", browserName,

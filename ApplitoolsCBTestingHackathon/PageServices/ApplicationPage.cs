@@ -55,52 +55,52 @@ namespace ApplitoolsCBTestingHackathon.PageServices
 
         public bool IsQuickLinksPresent()
         {
-            return SiteDriver.IsElementPresent(ApplicationPageObjects.quickLinksIcons, How.Id);
+            return SiteDriver.IsElementPresent(ApplicationPageObjects.quickLinksIcons, How.XPath);
         }
 
         public bool IsContactsInfoPresent()
         {
-            return SiteDriver.IsElementPresent(ApplicationPageObjects.contactsInfo, How.Id);
+            return SiteDriver.IsElementPresent(ApplicationPageObjects.contactsInfo, How.XPath);
         }
 
         public bool IsKeepInTouchFormPresent()
         {
-            return SiteDriver.IsElementPresent(ApplicationPageObjects.keepInTouchForm, How.Id);
+            return SiteDriver.IsElementPresent(ApplicationPageObjects.keepInTouchForm, How.XPath);
         }
 
         public bool IsLanguageSelectionPresent()
         {
-            return SiteDriver.IsElementPresent(ApplicationPageObjects.languageSelection, How.Id);
+            return SiteDriver.IsElementPresent(ApplicationPageObjects.languageSelection, How.CssSelector);
         }
 
         public bool IsCurrencyDropdownPresent()
         {
-            return SiteDriver.IsElementPresent(ApplicationPageObjects.currencyDropdown, How.Id);
+            return SiteDriver.IsElementPresent(ApplicationPageObjects.currencyDropdown, How.CssSelector);
         }
 
         public bool IsTermsAndConditionLinkPresent()
         {
-            return SiteDriver.IsElementPresent(ApplicationPageObjects.termsAndConditionLink, How.Id);
+            return SiteDriver.IsElementPresent(ApplicationPageObjects.termsAndConditionLink, How.XPath);
         }
 
         public bool IsPrivacyLinkPresent()
         {
-            return SiteDriver.IsElementPresent(ApplicationPageObjects.privacyLink, How.Id);
+            return SiteDriver.IsElementPresent(ApplicationPageObjects.privacyLink, How.XPath);
         }
 
         public bool IsCopyRightInfoPresent()
         {
-            return SiteDriver.IsElementPresent(ApplicationPageObjects.copyrightInfo, How.Id);
+            return SiteDriver.IsElementPresent(ApplicationPageObjects.copyrightInfo, How.XPath);
         }
 
         public bool IsSortingOptionPresent()
         {
-            return SiteDriver.IsElementPresent(ApplicationPageObjects.sortingOption, How.Id);
+            return SiteDriver.IsElementPresent(ApplicationPageObjects.sortingOption, How.CssSelector);
         }
 
         public bool IsProductArrangementOptionsPresent()
         {
-            return SiteDriver.IsElementPresent(ApplicationPageObjects.productArrangementOption, How.Id);
+            return SiteDriver.IsElementPresent(ApplicationPageObjects.productArrangementOption, How.CssSelector);
         }
 
         public bool IsProductsGridPresent()
@@ -188,6 +188,18 @@ namespace ApplitoolsCBTestingHackathon.PageServices
         {
             return SiteDriver.IsElementPresent(ApplicationPageObjects.AddToCartButton, How.CssSelector);
 
+        }
+
+        public bool IsFilterIconPresent()
+        {
+            return SiteDriver.IsElementPresent(ApplicationPageObjects.FilterIcon, How.CssSelector);
+        }
+
+        public void ClickOnFilterIcon()
+        {
+            SiteDriver.FindElement(ApplicationPageObjects.FilterIcon, How.CssSelector).Click();
+            Thread.Sleep(1000);
+            SiteDriver.WaitForPageToLoad();
         }
 
 

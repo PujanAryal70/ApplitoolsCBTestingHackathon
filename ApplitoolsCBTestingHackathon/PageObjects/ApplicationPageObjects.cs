@@ -14,16 +14,16 @@ namespace ApplitoolsCBTestingHackathon.PageObjects
         public const string profileIcon = "DIV__dropdowndr__55";
         public const string wishListIcon = "A__wishlist__52";
         public const string cartIcon = "DIV__dropdowndr__48";
-        public const string quickLinksIcons = "DIV__collgcolmd__420";
-        public const string contactsInfo = "DIV__collgcolmd__436";
-        public const string keepInTouchForm = "DIV__collgcolmd__446";
-        public const string languageSelection = "DIV__styledsele__459";
-        public const string currencyDropdown = "DIV__styledsele__466";
-        public const string termsAndConditionLink = "A____473";
-        public const string privacyLink = "A____475";
-        public const string copyrightInfo = "SPAN____477";
-        public const string sortingOption = "DIV__sortselect__193";
-        public const string productArrangementOption = "LI____200";
+        public const string quickLinksIcons = "//h3[text()='Quick Links']/..";
+        public const string contactsInfo = "//h3[text()='Contacts']/..";
+        public const string keepInTouchForm = "//h3[text()='Keep in touch']/..";
+        public const string languageSelection = "div.lang-selector";
+        public const string currencyDropdown = "div.currency-selector";
+        public const string termsAndConditionLink = "//a[text()='Terms and conditions']";
+        public const string privacyLink = "//a[text()='Privacy']";
+        public const string copyrightInfo = "//span[text()='© 2020 Applitools']";
+        public const string sortingOption = "div.sort_select";
+        public const string productArrangementOption = "i.ti-view-grid";
         public const string products = "product_grid";
         public const string SelectFilterXpath = "//a[text()='{0}']/../../../div[2]/div//label[text()='{1}']/span";
         public const string FilterButton = "filterBtn";
@@ -39,6 +39,7 @@ namespace ApplitoolsCBTestingHackathon.PageObjects
         public const string ProductPriceOld = "div.price_main>span#old_price";
         public const string ProductDiscount = "div.price_main>span#discount";
         public const string AddToCartButton = "div.btn_add_to_cart";
+        public const string FilterIcon = "i.ti-filter";
 
 
 

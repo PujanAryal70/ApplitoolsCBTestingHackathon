@@ -1,4 +1,3 @@
-
 Task: 1, Test Name: Search field is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
 Task: 1, Test Name: Search icon is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
 Task: 1, Test Name: Applifashion logo is displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
@@ -87,6 +86,18 @@ Task: 1, Test Name: Quick links are displayed on footer, Browser Chrome, Viewpor
 Task: 1, Test Name: Contacts are displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
 Task: 1, Test Name: Keep in touch form is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
 Task: 1, Test Name: Language selection dropdown is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Search field is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Search icon is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Applifashion logo is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Menu is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Filters are displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Profile icon is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Wishlist icon is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Cart icon is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Quick links are displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Contacts are displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Keep in touch form is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Language selection dropdown is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
 Task: 1, Test Name: Currency dropdown is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
 Task: 1, Test Name: Terms and conditions link is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
 Task: 1, Test Name: Privacy link is displayed on footer, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
@@ -94,3 +105,120 @@ Task: 1, Test Name: Applitools copyright information is displayed on footer, Bro
 Task: 1, Test Name: Sorting option is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
 Task: 1, Test Name: Products arrangement option is displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
 Task: 1, Test Name: Products in grid are displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 1, Test Name: Search field is displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Search icon is displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Applifashion logo is displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Menu is displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Filters are displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Profile icon is displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Wishlist icon is displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Cart icon is displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Quick links are displayed on footer, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Contacts are displayed on footer, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Keep in touch form is displayed on footer, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Language selection dropdown is displayed on footer, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Currency dropdown is displayed on footer, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Terms and conditions link is displayed on footer, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Privacy link is displayed on footer, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Applitools copyright information is displayed on footer, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Sorting option is displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Products arrangement option is displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Products in grid are displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 1, Test Name: Search field is displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Search icon is displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Applifashion logo is displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Menu is displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Filters are displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Profile icon is displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Wishlist icon is displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Cart icon is displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Quick links are displayed on footer, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Contacts are displayed on footer, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Keep in touch form is displayed on footer, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Language selection dropdown is displayed on footer, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Currency dropdown is displayed on footer, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Terms and conditions link is displayed on footer, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Privacy link is displayed on footer, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Applitools copyright information is displayed on footer, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Sorting option is displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Products arrangement option is displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 1, Test Name: Products in grid are displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: TrueTask: 2, Test Name: Correct Products Displayed When Filter Is Applied ?, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+
+Task: 2, Test Name: Correct Products Displayed When Filter Is Applied ?, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 2, Test Name: Correct Products Displayed When Filter Is Applied ?, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 2, Test Name: Correct Products Displayed When Filter Is Applied ?, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 2, Test Name: Correct Products Displayed When Filter Is Applied ?, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 2, Test Name: Correct Products Displayed When Filter Is Applied ?, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 2, Test Name: Correct Products Displayed When Filter Is Applied ?, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 2, Test Name: Correct Products Displayed When Filter Is Applied ?, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+
+Task: 3, Test Name: Navigation To Default Page, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Verify Image Is Displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Product Rating Present ?, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Product Description Present ?, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Size Selection Dropdown Present ?, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Quantity Selection Dropdown Present ?, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Correct New Price Is Displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Correct Old Price Is Displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Correct Discount Is Displayed, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Add To Cart Button Present ?, Browser Chrome, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Navigation To Default Page, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Verify Image Is Displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Product Rating Present ?, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Product Description Present ?, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Size Selection Dropdown Present ?, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Quantity Selection Dropdown Present ?, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Correct New Price Is Displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Correct Old Price Is Displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Correct Discount Is Displayed, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Add To Cart Button Present ?, Browser Chrome, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Navigation To Default Page, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Verify Image Is Displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Product Rating Present ?, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Product Description Present ?, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Size Selection Dropdown Present ?, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Quantity Selection Dropdown Present ?, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Correct New Price Is Displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Correct Old Price Is Displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Correct Discount Is Displayed, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Add To Cart Button Present ?, Browser FireFox, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Navigation To Default Page, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 3, Test Name: Verify Image Is Displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 3, Test Name: Is Product Rating Present ?, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 3, Test Name: Is Product Description Present ?, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 3, Test Name: Is Size Selection Dropdown Present ?, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 3, Test Name: Is Quantity Selection Dropdown Present ?, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 3, Test Name: Correct New Price Is Displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 3, Test Name: Correct Old Price Is Displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 3, Test Name: Correct Discount Is Displayed, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 3, Test Name: Is Add To Cart Button Present ?, Browser Chrome, Viewport 500*700, Device Mobile, Status: True
+Task: 3, Test Name: Navigation To Default Page, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Verify Image Is Displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Product Rating Present ?, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Product Description Present ?, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Size Selection Dropdown Present ?, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Quantity Selection Dropdown Present ?, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Correct New Price Is Displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Correct Old Price Is Displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Correct Discount Is Displayed, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Add To Cart Button Present ?, Browser FireFox, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Navigation To Default Page, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Verify Image Is Displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Product Rating Present ?, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Product Description Present ?, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Size Selection Dropdown Present ?, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Quantity Selection Dropdown Present ?, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Correct New Price Is Displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Correct Old Price Is Displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Correct Discount Is Displayed, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Is Add To Cart Button Present ?, Browser Edge, Viewport 1200*700, Device Laptop, Status: True
+Task: 3, Test Name: Navigation To Default Page, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Verify Image Is Displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Product Rating Present ?, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Product Description Present ?, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Size Selection Dropdown Present ?, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Quantity Selection Dropdown Present ?, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Correct New Price Is Displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Correct Old Price Is Displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Correct Discount Is Displayed, Browser Edge, Viewport 768*700, Device Tablet, Status: True
+Task: 3, Test Name: Is Add To Cart Button Present ?, Browser Edge, Viewport 768*700, Device Tablet, Status: True

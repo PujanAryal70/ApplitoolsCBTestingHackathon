@@ -48,6 +48,12 @@ namespace ApplitoolsCBTestingHackathon
         public void Verify_Shopping_Experience(string browserName)
         {
             Setup(BrowsersSettings.Version1Url,browserName);
+
+            //Filters are hidden for Tablet and Mobile Device hence filter icon must be clicked before applying the filters
+            if (browserName.Equals("chrome2")||browserName.Equals("firefox2")||browserName.Equals("edge2")||browserName.Equals("mobilePortrait"))
+            {
+                _v1Page.ClickOnFilterIcon();
+            }
             _v1Page.SelectFilterByType("colors","Black ");
             _v1Page.ClickOnFilterButton();
             Assert.True(HackathonReport(2, "Correct Products Displayed When Filter Is Applied ?", browserName,
